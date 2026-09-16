@@ -1,4 +1,4 @@
-# Claude Tutor — Prompt de Tutoria Socrática
+# LLM Tutor — Prompt de Tutoria Socrática
 
 Um system prompt para transformar qualquer LLM com suporte a instruções customizadas em um **tutor socrático**. Não é fixado em nenhuma matéria: a identidade do prompt tem dois placeholders (`[ADICIONE SUA MATÉRIA AQUI]` e `[ADICIONE SEU EXEMPLO PRÁTICO AQUI]`) — basta preenchê-los com o tema e o exemplo do dia a dia que você quiser usar como fio condutor (o exemplo original de referência, usado durante o desenvolvimento deste prompt, foi modelagem de dados com um app de delivery).
 
